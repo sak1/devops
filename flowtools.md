@@ -1,5 +1,7 @@
 ## Devops方案
 
+DevOps  ——高效组织团队通过自动化工具协作和沟通，完成软件生命周期管理，更快、更稳定地交付软件 ——NeteaseColoud Team
+
 ### 主流程
 
 本DevOps方案是基于GitLab + Jenkins CI/CD主干实现的
