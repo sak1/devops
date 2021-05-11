@@ -11,4 +11,5 @@
 9. [install Oracle In CentOS](oracle.md)
 10. [Process a MySQL cannot connect problem](connectfailed.md)
 11. [restore MySQL a table ](restoretable.md)
+12. [install SonarQube inCentOS](sonar.md)
 
