@@ -12,4 +12,5 @@
 10. [Process a MySQL cannot connect problem](connectfailed.md)
 11. [restore MySQL a table ](restoretable.md)
 12. [install SonarQube inCentOS](sonar.md)
+13. [公司搬家后VMWARE网络无法连接问题处理](reepairvmip.md)
 
